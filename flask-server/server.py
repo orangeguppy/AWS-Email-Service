@@ -1,7 +1,3 @@
-# AWS account ID: 830835129229
-# AWS access key: AKIA4C4NB7OGS326PHHV
-# AWS secret access key: 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
-
 from flask import Flask, request,jsonify
 from flask_cors import CORS
 from flask_cors import cross_origin
